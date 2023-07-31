@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "afb6bb504e3a100f",
+    "type": "split",
+    "children": [
+      {
+        "id": "92d1a4be1e276cad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c39af893fc1b90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-07-30-test-markdown.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "44fdbcd2cd0400dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41980c29ed48e79a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-07-30-test-markdown.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15ae51cef151b6e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a71139478afcdb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a871fdd047fece0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8a01357311a4b79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "488bee3550dcad52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c91fea3c80cfa66b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31ef4c90174660b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3db33ff7d0562d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b42c910bf6c3a0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-07-30-test-markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49b79cef2a0b22bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-07-30-test-markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c737b26439bb38b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d5234f8f162d92ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-07-30-test-markdown.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6c39af893fc1b90a",
+  "lastOpenFiles": [
+    "_posts/2016-01-01-another-test-markdown - 副本 - 副本.md",
+    "_posts/2016-01-01-another-test-markdown - 副本 (2).md",
+    "_posts/2016-01-01-another-test-markdown - 副本.md",
+    "_posts/2018-12-05-an-exhibit-of-markdown.md",
+    "_posts/2023-07-30-test-markdown.md",
+    "_posts/2018-12-07-welcome-to-jekyll.md",
+    "_posts/2017-12-15-table-example.md",
+    "_posts/2017-12-04-plantuml-example.md",
+    "_posts/2017-12-18-video-example.md",
+    "_posts/2018-05-26-mathjax-test.md",
+    "_posts/2016-08-12-my-example-post.md",
+    "assets/images/banners/home.jpg",
+    "assets/images/banners/home.webp",
+    "assets/images/banners/home.jpeg",
+    "_posts/2015-02-28-test-markdown.md"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ]
+}
