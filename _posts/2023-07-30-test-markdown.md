@@ -6,7 +6,7 @@ author: NightSheep
 categories: markdown
 tags: [测试,markdown]
 ---
-
+ 一级标题显示有问题？
 # 一级标题
 
 ## 二级标题
@@ -40,7 +40,7 @@ tags: [测试,markdown]
 ---
 # 插入图片
 
-![示例图片](home.jpg)
+![示例图片](../../assets/images/home.jpg)
 
 # 文字链接
 
