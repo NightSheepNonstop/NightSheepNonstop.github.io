@@ -40,7 +40,7 @@ tags: [测试,markdown]
 ---
 # 插入图片
 
-![示例图片](https://github.com/NightSheepNonstop/NightSheepNonstop.github.io/blob/main/assets/images/home.jpg?raw=true)
+![示例图片](../assets/images/home.jpg?raw=true)
 
 # 文字链接
 
