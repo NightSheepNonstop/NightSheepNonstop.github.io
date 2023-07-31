@@ -40,7 +40,7 @@ tags: [测试,markdown]
 ---
 # 插入图片
 
-![示例图片](../assets/images/home.jpg)
+![示例图片](https://s1.ax1x.com/2023/07/31/pP9Q4vd.jpg)
 # 文字链接
 
 [知乎]
