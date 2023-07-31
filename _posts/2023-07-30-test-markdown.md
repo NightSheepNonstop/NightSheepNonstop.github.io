@@ -6,19 +6,22 @@ author: NightSheep
 categories: markdown
 tags: [测试,markdown]
 ---
+
 # 一级标题
 
 ## 二级标题
 
 ### 三级标题
 
-**粗体**
+**粗体**  
 *斜体*
+
 # 有序列表 
 
 1. 啊
 2. 哦
 3. 额  
+
 # 无序列表
 
 * 啊
@@ -27,6 +30,7 @@ tags: [测试,markdown]
 - 啊
 - 哦
 - 额
+
 # 嵌套列表
 
 - 第一层列表
@@ -36,7 +40,7 @@ tags: [测试,markdown]
 ---
 # 插入图片
 
-![示例图片](C:\Users\ASUS\myblog\assets\images\banners\home.jpg)
+![示例图片](home.jpg)
 
 # 文字链接
 

@@ -3,6 +3,10 @@
     {
       "basename": "2023-07-30-test-markdown",
       "path": "_posts/2023-07-30-test-markdown.md"
+    },
+    {
+      "basename": "home",
+      "path": "assets/images/home.jpg"
     }
   ],
   "omittedPaths": [],
