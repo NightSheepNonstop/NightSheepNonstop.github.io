@@ -6,8 +6,7 @@ author: NightSheep
 categories: markdown
 tags: [测试,markdown]
 ---
- 一级标题显示有问题？
-# 一级标题
+ 
 
 ## 二级标题
 
@@ -90,6 +89,6 @@ print("hello world")
 
 # 锚点
 
-[一级标题](#一级标题)
+[二级标题](#二级标题)
 
 
