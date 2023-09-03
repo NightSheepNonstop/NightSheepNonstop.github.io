@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-07-30-markdown语法",
+      "path": "_posts/2023-07-30-markdown语法.md"
+    },
+    {
+      "basename": "home",
+      "path": "assets/images/home.jpg"
+    },
+    {
+      "basename": "home",
+      "path": "assets/images/banners/home.webp"
+    },
+    {
+      "basename": "about",
+      "path": "assets/images/banners/about.jpeg"
+    },
+    {
       "basename": "2023-09-03-计算机网络和因特网1.3",
       "path": "_posts/2023-09-03-计算机网络和因特网1.3.md"
     },
@@ -13,20 +29,12 @@
       "path": "_posts/2023-09-02-计算机网络和因特网1.1.md"
     },
     {
-      "basename": "2023-07-30-markdown语法",
-      "path": "_posts/2023-07-30-markdown语法.md"
-    },
-    {
       "basename": "2023-09-01-python命名规范",
       "path": "_posts/2023-09-01-python命名规范.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "home",
-      "path": "assets/images/home.jpg"
     }
   ],
   "omittedPaths": [],
