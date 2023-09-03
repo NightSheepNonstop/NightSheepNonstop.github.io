@@ -153,11 +153,11 @@ lang: "zh-CN"  # default lang is en
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-# heading: ""
-# subheading: ""
-# banner: "Your image url"
+defaults:
+  home:
+    heading: "鹤鸣楚山静"
+    subheading: ""
+# banner: "/assets/images/banners/about.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -218,12 +218,12 @@ lang: "zh-CN"  # default lang is en
 # See https://utteranc.es/
 # set follow_site_theme true to make utterances' theme follow the site's
 
-# utterances:
-#   repo: "owner/repo"
-#   issue_term: "title"
-#   label: "utterances comment"
-#   theme: "github-light"
-#   follow_site_theme: true
+utterances:
+  repo: "owner/repo"
+  issue_term: "title"
+  label: "utterances comment"
+  theme: "github-light"
+  follow_site_theme: true
 
 # Build settings
 # highlighter: none
