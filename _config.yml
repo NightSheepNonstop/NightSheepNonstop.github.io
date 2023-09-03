@@ -220,7 +220,7 @@ defaults:
 
 utterances:
   repo: "NightSheepNonstop/NightSheepNonstop.github.io"
-  issue_term: "title"
+  issue_term: "评论"
   label: "utterances comment"
   theme: "github-light"
   follow_site_theme: true
