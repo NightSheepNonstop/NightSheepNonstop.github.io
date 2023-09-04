@@ -225,6 +225,12 @@ utterances:
   theme: "github-light"
   follow_site_theme: true
 
+# Social
+socials:
+  github:  NightSheepNonstop
+  bilibili: 313625724
+  facebook: profile.php?id=100087351068138&mibextid=ZbWKwL
+  telegram: NightSheepNonstop
 # Build settings
 # highlighter: none
 markdown: kramdown
