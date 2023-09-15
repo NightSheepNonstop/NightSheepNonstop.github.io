@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "92d1a4be1e276cad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c39af893fc1b90a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-14-应用层2.2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2170ce7bc3e95fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-14-应用层2.2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "57e135ed4169d40e",
         "type": "tabs",
         "children": [
@@ -44,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-14-应用层2.2.md",
+                "file": "_posts/2023-09-15-应用层2.4.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c81a6f6f951b4a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c19781e807f0270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-09-15-应用层2.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-14-应用层2.2.md",
+                "file": "_posts/2023-09-15-应用层2.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-14-应用层2.2.md",
+                "file": "_posts/2023-09-15-应用层2.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-14-应用层2.2.md"
+                "file": "_posts/2023-09-15-应用层2.4.md"
               }
             }
           },
@@ -197,6 +184,10 @@
   },
   "active": "4f8f443e8b801402",
   "lastOpenFiles": [
+    "_posts/2023-09-14-应用层2.2.md",
+    "_posts/2023-09-15-应用层2.4.md",
+    "assets/images/Snipaste_2023-09-15_15-36-53.png",
+    "_posts/2023-09-15-应用层2.3.md",
     "_site/assets/images/Snipaste_2023-09-14_23-43-19.png",
     "assets/images/Snipaste_2023-09-14_23-43-19.png",
     "_site/计网笔记/2023/09/14/应用层2.2.html",
@@ -213,15 +204,12 @@
     "_site/assets/images/Snipaste_2023-09-09_17-57-08.png",
     "assets/images/Snipaste_2023-09-14_23-05-27.png",
     "assets/images/Snipaste_2023-09-14_22-46-13.png",
-    "assets/images/Snipaste_2023-09-14_22-38-17.png",
     "_posts/2023-09-12-应用层2.1.md",
-    "_posts/2023-09-14-应用层2.2.md",
     "_posts/2023-09-04-计算机网络和因特网1.4.md",
     "_posts/2023-09-08-计算机网络和因特网1.5.md",
     "_posts/2023-09-08-计算机网络和因特网1.6.md",
     "_posts/2023-09-09-计算机网络和因特网1.7.md",
     "_posts/2023-09-09-计算机网络和因特网1.8.md",
-    "assets/images/Snipaste_2023-09-09_22-16-42.png",
     "_site/计网笔记/2023/09/08/计算机网络和因特网1.6.html",
     "_site/计网笔记/2023/09/08/计算机网络和因特网1.5.html",
     "_site/计网笔记/2023/09/08",
@@ -240,8 +228,6 @@
     "_posts/2016-01-01-another-test-markdown - 副本 (2).md",
     "_posts/2016-01-01-another-test-markdown - 副本.md",
     "_posts/2018-12-05-an-exhibit-of-markdown.md",
-    "_posts/2018-12-07-welcome-to-jekyll.md",
-    "_posts/2017-12-15-table-example.md",
-    "_posts/2017-12-04-plantuml-example.md"
+    "_posts/2018-12-07-welcome-to-jekyll.md"
   ]
 }
