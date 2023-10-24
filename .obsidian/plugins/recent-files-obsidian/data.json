@@ -5,6 +5,18 @@
       "path": "_posts/2023-10-23-传输层3.4.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "2023-09-04-计算机网络和因特网1.4",
+      "path": "_posts/2023-09-04-计算机网络和因特网1.4.md"
+    },
+    {
+      "basename": "2023-09-03-计算机网络和因特网1.3",
+      "path": "_posts/2023-09-03-计算机网络和因特网1.3.md"
+    },
+    {
       "basename": "2023-10-23-传输层3.3",
       "path": "_posts/2023-10-23-传输层3.3.md"
     },
@@ -15,18 +27,6 @@
     {
       "basename": "Snipaste_2023-10-23_16-17-09",
       "path": "assets/images/Snipaste_2023-10-23_16-17-09.png"
-    },
-    {
-      "basename": "Pasted image 20230904201810",
-      "path": "Pasted image 20230904201810.png"
-    },
-    {
-      "basename": "Pasted image 20230904202104",
-      "path": "Pasted image 20230904202104.png"
-    },
-    {
-      "basename": "Pasted image 20230904202107",
-      "path": "Pasted image 20230904202107.png"
     },
     {
       "basename": "2023-09-25-应用层2.8",
@@ -89,10 +89,6 @@
       "path": "_posts/2023-09-12-应用层2.1.md"
     },
     {
-      "basename": "2023-09-04-计算机网络和因特网1.4",
-      "path": "_posts/2023-09-04-计算机网络和因特网1.4.md"
-    },
-    {
       "basename": "2023-09-08-计算机网络和因特网1.5",
       "path": "_posts/2023-09-08-计算机网络和因特网1.5.md"
     },
@@ -107,10 +103,6 @@
     {
       "basename": "2023-09-09-计算机网络和因特网1.8",
       "path": "_posts/2023-09-09-计算机网络和因特网1.8.md"
-    },
-    {
-      "basename": "2023-09-03-计算机网络和因特网1.3",
-      "path": "_posts/2023-09-03-计算机网络和因特网1.3.md"
     },
     {
       "basename": "2023-09-02-计算机网络和因特网1.1",
@@ -139,10 +131,6 @@
     {
       "basename": "home.jpg",
       "path": "(/assets/images/home.jpg.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
